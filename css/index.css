@@ -57,7 +57,7 @@
 .about_section{
     width:100%;
     background-color:var(--backgroundColor);
-    height:90vh;
+    height:auto;
     display:grid;
     items-space:center;
 }
